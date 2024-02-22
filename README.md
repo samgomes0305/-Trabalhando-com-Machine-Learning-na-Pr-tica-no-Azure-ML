@@ -1,4 +1,4 @@
-# Azure Machine Learning Automated ML - README
+# Azure Machine Learning Automated ML
 
 Este repositório fornece um guia passo a passo para explorar o Machine Learning Automatizado no Azure Machine Learning. Neste exercício, você aprenderá a criar um espaço de trabalho do Azure Machine Learning, treinar e avaliar um modelo de aprendizado de máquina usando Automated ML, e, finalmente, implantar e testar o modelo treinado.
 
